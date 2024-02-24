@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravisingh15
-- 👀 I’m interested in cheminformatics and machine learning in drug discovery
-- 🌱 I’m currently learning 'Applications of deep-learning in drug discovery'.
-- 💞️ I’m looking to collaborate on Deep-learning in classifying brain MRI images. 
+- 👀 I’m interested in LLMs, Computer vision, cheminformatics and machine learning in drug discovery
+- 🌱 I’m currently working on 'Applications of machine-learning in drug discovery'.
+- 💞️ I’m looking to collaborate on Deep-learning in diagnosis of Alzheimer's Disesae
 - 📫 How to reach me ...email me at ravisingh.rs.phe19@itbhu.ac.in
 
 <!---
